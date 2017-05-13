@@ -33,6 +33,12 @@ The Purpose of the United Nations are:
 
 1. To maintain international peace and security, and to that end: to take efective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of agfgregation or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace;
 
-1. to develop friendly relations
+2. to develop friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples, and to take other appropriate measures to strengthen universal peace;
+
+3. To achieve international co-operation in resolving international problems of an economic, social, cultural, or humaniterian character, and in promoting and encouraging respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion; and
+
+4. To be a centre for harmonizing the actions of nations in the attainment of these common ends.
+
+### Article 2
 
 FIXME
