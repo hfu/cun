@@ -31,6 +31,8 @@ Accordingly, our respective Governments, through representatives assembled in th
 
 The Purpose of the United Nations are:
 
-1. To maintain international peace and security,
+1. To maintain international peace and security, and to that end: to take efective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of agfgregation or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace;
+
+2. to develop friendly relations
 
 FIXME
