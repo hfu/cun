@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Charter of the United Nations
+We the people of the United nations
 
-You can use the [editor on GitHub](https://github.com/hfu/cun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_determined_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+to save succeeding generations from the scourage of war, which twice in our lifetime has brought untold sorrow to mankind, and
 
-### Markdown
+to reaffirm faith in fundamental human rights, in the dignity and worth of the human person, in the equal rights of men and women and of nations large and small, and
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+to establish conditions under which justice and respect for the obligations arising from treaties and other source of international law can be maintained, and
 
-```markdown
-Syntax highlighted code block
+to promote social progress and better standards of life in larger freedom,
 
-# Header 1
-## Header 2
-### Header 3
+_and for these ends_
 
-- Bulleted
-- List
+to practice tolerance and live together in peace with one another as good neighbors, and
 
-1. Numbered
-2. List
+to unite our strength to maintain international peace and security, and
 
-**Bold** and _Italic_ and `Code` text
+to ensure, by the acceptance of principles and the institution of methods, that armed force shall not be used, save in the common interest, and
 
-[Link](url) and ![Image](src)
-```
+to employ international machinery for the promotion of the economic and social advancement of all peoples,
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_have resolved to combine our efforts to accomplish these aims_
 
-### Jekyll Themes
+Accordingly, our respective Governments, through representatives assembled in the city of San Francisco, who have exhibited their full powers found to be in good and due form, have agreed to the present Charter of the Unnited Nations and do hereby establish an international organization to be known as the United Nations.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hfu/cun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Chapter I Purposes and Principles
 
-### Support or Contact
+### Article 1
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Purpose of the United Nations are:
+
+1. To maintain international peace and security,
+
+FIXME
