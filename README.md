@@ -25,7 +25,7 @@ _have resolved to combine our efforts to accomplish these aims_
 
 Accordingly, our respective Governments, through representatives assembled in the city of San Francisco, who have exhibited their full powers found to be in good and due form, have agreed to the present Charter of the Unnited Nations and do hereby establish an international organization to be known as the United Nations.
 
-## Chapter I Purposes and Principles
+## Chapter I: Purposes and Principles
 
 ### Article 1
 
