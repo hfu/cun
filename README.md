@@ -3,7 +3,7 @@ We the people of the United Nations
 
 _determined_
 
-to save succeeding generations from the scourage of war, which twice in our lifetime has brought untold sorrow to mankind, and
+to save succeeding generations from the scourge of war, which twice in our lifetime has brought untold sorrow to mankind, and
 
 to reaffirm faith in fundamental human rights, in the dignity and worth of the human person, in the equal rights of men and women and of nations large and small, and
 
@@ -68,5 +68,17 @@ The original Members of the United Nations shall be the states which, having par
 1. Membership in the United Nations is open to all other peace-loving states which accept the obligations contained in the present Charter and, in the judgement of the Organization, are able and willing to carry out these obligations.
 
 2. The admission of any such state to membership in the United Nations will be effected by a decision of the General Assembly upon the recommendation of the Security Council.
+
+### Article 5
+
+A Member of the United Nations against which preventive or enforcement action has been taken by the Security Council may be suspended from the exercise of the rights and privileges of membership by the General Assembly upon the recommendation of the Security Council. The exercise of these rights and privileges may be restored by the Security Council.
+
+### Article 6
+
+A Member of the United Nations which has persistently violated the Principles contained in the present Charter may be expelled from the Organization by the General Assembly upon the recommendation of the Security Council.
+
+## Chapter III: Organs
+
+
 
 FIXME
