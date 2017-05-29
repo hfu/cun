@@ -79,6 +79,28 @@ A Member of the United Nations which has persistently violated the Principles co
 
 ## Chapter III: Organs
 
+### Article 7
 
+1. There are established as the principal organs of the United Nations: a General Assembly, a Security Council, an Economic and Social Council, a Trusteeship Council, an International Court of Justice, and a Secretariat.
+
+2. Such subsidiary organs as may be found necessary may be established in accordance with the present Charter.
+
+### Article 8
+
+The United Nations shall place no restrictions on the eligibility of men and women to participate in any capacity and under conditions of equality in its principal and subsidiary organs.
+
+## Chapter IV: The General Assembly
+
+## Composition
+
+### Article 9
+
+1. The General Assembly shall consist of all the Members of the United Nations
+
+2. Each Member shall have not more than five representative in the General Assembly.
+
+## Functions and Powers
+
+### Article 10
 
 FIXME
