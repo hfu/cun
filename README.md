@@ -103,4 +103,22 @@ The United Nations shall place no restrictions on the eligibility of men and wom
 
 ### Article 10
 
+The General Assembly may discuss any questions or any matters within the scope of the present Charter or relating to the powers and functions of any organs provided for in the present Charter, and, except as provided in Article 12, may make recommendations to the Members of the United Nations or to the Security Council or to both on any such questions or matters.
+
+### Article 11
+
+1. The General Assembly may consider the general principles of co-operation in the maintenance of international peace and security, including the principles governing disarmament and the regulation of armaments, and may make recommendations with regard to such principles to the Members or to the Security Conscil or to both.
+
+2. The General Assembly may discuss any questions relation to the maintenance of international peace and security brought before it by any Member of the United Natios, or by the Security Council, or by a state which is not a Member of the United Nations in accordance with Article 35, paragraph 2, and except as provided in Article 12, may make recommendations with regard to any such questions to the state or states concerned or to the Security Council or to both. Any such question on which action is necessary shall be referred to the Security Council by the General Assembly either before or after discussion.
+
+3. The General Assembly may call the attention of the Security Council to situations which are likely to endanger international peace and security.
+
+4. The powers of the General Assembly set forth in this Article shall not limit the general scope of Article 10.
+
+### Article 12
+
+1. While the Security Council is exercising in respect of any dispute or situation the functions assigned to it in the present Charter, the General Assembly shall not make any recommendation with regard to that dispute or situation unless the Security Council so requests.
+
+2. The Secretary-General, with the consent of the Security Council, shall notify the General Assembly at each session of any matters relative to the maintenance of international peace and security which are being dealt with by the Security Council and shall similarly notify the General Assembly, or the Members of the United Nations if the General Assembly is not in session, immediately the Security Council ceases to deal with such matters.
+
 FIXME
