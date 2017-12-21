@@ -121,4 +121,40 @@ The General Assembly may discuss any questions or any matters within the scope o
 
 2. The Secretary-General, with the consent of the Security Council, shall notify the General Assembly at each session of any matters relative to the maintenance of international peace and security which are being dealt with by the Security Council and shall similarly notify the General Assembly, or the Members of the United Nations if the General Assembly is not in session, immediately the Security Council ceases to deal with such matters.
 
+### Article 13
+
+1. The General Assembly shall initiate studies and make recommendations for the purpose of:
+
+  a. promoting international co-operation in the political field and encouraging the progressive development of international law and its codification;
+
+  b. promoting international co-operation in the economic, social, cultural, educational, and health fields, and assisting in the realization of human rights and fundamental freedoms for all without distinction as to race, sex, language, or religion.
+
+2. The further responsibilities, functions and powers of the General Assembly with respect to matters mentioned in paragraph 1 (b) above are set forth in Chapter IX and X.
+
+### Article 14
+
+Subject to the provisions of Article 12, the Genral Assembly may recommend measures for the peaceful adjustment of any situation, regardless of origin, which it deems likely to impair the general welfare of friendly relations among nations, including situations resulting from a violation of the provisions of the present Chapter setting forth the Purposes and Priciples of the United Nations.
+
+### Article 15
+
+1. The General Assembly shall receive and consider annual and special reports from the Security Council; these reports shall include an account of the measures that Security Council has decided upon or taken to maintain international peace and security.
+
+2. The General Assembly shall receive and consider reports from the other organs of the United Nations.
+
+### Article 16
+
+The General Assembly shall perform such functions with respect to the international trusteeship system as are assigned to it under Chapters XII and XIII, including the approval of the trusteeship agreements for areas not designated as strategic.
+
+### Article 17
+
+1. The General Assembly shall consider and approve the budget of the Organization.
+
+2. The expenses of the Organization shall be borne by the Members as apportioned by the General Assembly.
+
+3. The General Assembly shall consider and approve any financial and budgetary arrangements with specialized agencies referred to in Article 57 and shall examine the administrative budgets of such specialized agencies with a view to making recommendations to the agencies concerned.
+
+## Voting
+
+
+
 FIXME
