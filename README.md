@@ -203,6 +203,57 @@ The General Assembly may establish such subsidiary organs as it deems necessary 
 
 3. The Security Council shall submit annual and, when necessary, special reports to the General Assembly for its consideration.
 
-### LAST Article is 111
+### Article 25
 
-FIXME
+The Members of the United Nations agree to accept and carry out the decisions of the Security Council in accordance with the present Chapter.
+
+### Article 26
+
+In order to promote the establishment and maintenance of international peace and security with the least diversion for armaments of the world's human and economic resources the Security Council shall be responsible for formulating, with the assistance of the Military Staff Committee referred in Article 47, plans to be submitted to the Members of the United Nations for the establishment of a system for the regulation of armaments.
+
+## voting
+
+### Article 27
+
+1. Each member of the Security Council shall have one vote.
+
+2. Decisions of the Security Council on procedural matters shall be made by an affirmative vote of nine members.
+
+3. Decisions of the Security Council on all other matters shall be made by an affirmative vote of nine members including the concurring votes of the permanent members; provided that, in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a disupute shall abstain from voting.
+
+## procedure
+
+### Article 28
+
+1. The Security Council shall be so organized as to be able to function continuously. Each member of the Security Council shall for this purpose be represented at all times at the seat of the Organization.
+
+2. The Security Council shall hold periodic meetings at which each of its members may, if it so desires, be represented by a member of the government or by some other specially designated representative.
+
+3. The Security Council may hold meetings at such places other than the seat of the Organization as in its judgement will best facilitate its work.
+
+### Article 29
+
+The Security Council may establish such subsidiary organs as it deems necessary for the performance of its functions.
+
+### Article 30
+
+The Security Council shall adopt its own rules of procedure, including the method of selecting its President.
+
+### Article 31
+
+Any Member of the United Nations which is not a member of the Security Council may participate, without vote, in the discussion of any question brought before the Security Council whenever the latter considers that the interests of that Member are specially affected.
+
+### Article 32
+
+Any Member of the United Nations which is not a member of the Security Council or any state which is not a Member of the United Nations, if it is a party to a dispute under consideration by the Security Council, shall be invited to participate, without vote, in the discussion relating to the dispute. The Security Council shall lay down such conditions as it deems just for the participation of a state which is not a Member of the United Nations.
+
+## CHAPTER VII: Pacific Settlement of disputes
+
+### Article 33
+
+1. The parties to any disupute, the continuance of which is likely to endanger the maintenance of international peace and security, shall, first of all, seek a solution by negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements, or other peaceful means of their own choice.
+
+2. The Security Council shall, when it deems necessary, call upon the parties to settle their dispute by such means.
+
+
+FIXME: the last article is 111
