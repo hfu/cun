@@ -155,6 +155,54 @@ The General Assembly shall perform such functions with respect to the internatio
 
 ## Voting
 
+### Article 18
 
+1. Each member of the General Assembly shall have one vote.
+
+2. Decisions of the General Assembly on important questions shall be made by a two-thirds majority of the members present and voting. These questions shall include: recommendations with respect to the maintenance of international peace and security, the election of the non-permanent members of the Security Council, the election of the members of the Economic and Social Council, the election of members of the Trusteeship Council in accordance with paragraph 1 (c) of Article 86, the admission of new Members to the United Nations, the suspension of the rights and priviledges of membership, the expulsion of Members, questions relating to the operation of the trusteeship system, and budgetary questions.
+
+3. Decision on other questions, including the determination of additional categories of questions to be decided by a two-thirds majority, shall be made by a majority of the members present and voting.
+
+### Article 19
+
+A Member of the United Nations which is in arrears in the payment of its financial contributions to the Organizations shall have no vote in the General Assembly if the amount of its arrears equals or exeeds the amount of the contributions due from it for the preceding two full years. The General Assembly may, nevertheless, permit such a Member to vote if it is satisfied that the failure to pay is due to conditions beyond the control of the Member.
+
+## Procedure
+
+### Article 20
+
+The General Assembly shall meet in regular annual sessions and such special sessions as occasion may require. Special sessions shall be convoked by the Secretary-General a the request of the Security Council or of a majority of the Member of the United Nations.
+
+### Article 21
+
+The General Assembly shall adopt its own rules of procedure. It shall elect it s President for each session.
+
+### Article 22
+
+The General Assembly may establish such subsidiary organs as it deems necessary for the performance of its functions.
+
+## CHAPTER V: The Security Council
+
+## Composition
+
+### Article 23
+
+1. The Security Council shall consist of fifteen Members of the United Nations. The Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America shall be permanent members of the Security Council. The General Assembly shall elect ten other Members of the United Nations to be non-permanent members of the Security Council, due regard being specially paid, in the first instance to the contribution of Member of the United Nations to be maintenance of international peace and security and to the other purposes of the Organization, and also to be equitable geographical distribution.
+
+2. The non-permanent members of the Security Council shall be elected for a term of two years. In the first election of the non-permanent members after the increase of the membership of the Security Council from eleven to fifteen, two of the four additional members shall be chosen for a term of one year. A retiring member shall not be eligible for immediate re-election.
+
+3. Each member of the Security Couoncil shall have one representative.
+
+## Functions and powers
+
+### Article 24
+
+1. In order to ensure prompt and effective action by the United Nations, its Members confer on the Security Council primary responsibility for the maintenance of international peace and security, and agree that in carrying out its duties under its responsibility the Security Council acts on their behalf.
+
+2. In discharging these duties the Security Council shall act in accordance with the Purposes and Principles of the United Nations. The specific powers granted to the Security Council for the discharge of these duties are laid down in Chapters VI, VII, VII, and XII.
+
+3. The Security Council shall submit annual and, when necessary, special reports to the General Assembly for its consideration.
+
+### LAST Article is 111
 
 FIXME
