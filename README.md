@@ -255,5 +255,46 @@ Any Member of the United Nations which is not a member of the Security Council o
 
 2. The Security Council shall, when it deems necessary, call upon the parties to settle their dispute by such means.
 
+### Article 34
+
+The Security Council may investigate any dispute, or any situation which might lead to international friction or give rise to a dispute, in order to determine whether the continuance of the dispute or situation is likely to endanger the maintenance of international peace and security.
+
+### Article 35
+
+1. Any member if the United Nations may bring any dispute, or any situation of the nature referred to in Article 34, to the attention of the Security Council or of the General Assembly.
+
+2. A state which is not a Member of the United Nations may bring to the attention of the Security Council or of the General Assembly any dispute to which it is a party if it accepts in advance, for the purposes of the dispute, the obligations of pacific settlement provided in the present Charter.
+
+3. The proceedings of the General Assembly in respect of matters brought to its attention under this Article will be subject to the provisions of Articles 11 and 12.
+
+### Article 36
+
+1. The Security Council may, at any stage of a dispute of the nature referred to in Article 33 or of a situaion of like nature, recommend appropriate procedures or methods of adjustment.
+
+2. The Security Council should take into consideration any procedures for the settlement of dispute which have already been adopted by the parties.
+
+3. In making recommendations under this Article the Security Council should also take into consideration that legal disputes should as a general rule be referred by the parties to the International Court of Justice in accordance with the provisions of the Statue of the Court.
+
+### Article 37
+
+1. Should the parties to a dispute of the nature referred to in Article 33 fail to settile it by the means indicated in that Article, they shall refer it to the Security Council.
+
+2. If the Security Council deems that the continuance of the dispute is in fact likely to endanger the maintenance of international peace and security, it shall decide whether to take action under Article 36 or to recommend such terms of settlement as it may consider appropriate.
+
+### Article 38
+
+Without prejudice to the provisions of Article 33 to 37, the Security Council maym inf all the parties to any dispute so request, make recommendations to the parties with a view to a pacific settlement of the dispute.
+
+## CHAPTER VII: Action with Respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression
+
+### Article 39
+
+The Security Council shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken in accordance with Articles 41 and 42, to maintain or restore international peace and security.
+
+### Article 40
+
+In order to prevent an aggravation of the situation, the Security Council may, before making the recommendations or deciding upon the measures provided for in Article 39, call upon the parties concerned to comply with such provisional measures as it deems necessary or desirable. Such provisional measures shall be without prejudice to the rights, claims, or position of the parties concerned. The Security Council shall duly take account of failure to comply with such provisional measures.
+
+### Article 41
 
 FIXME: the last article is 111
