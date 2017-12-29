@@ -297,4 +297,12 @@ In order to prevent an aggravation of the situation, the Security Council may, b
 
 ### Article 41
 
+The Security Council may decide what measures not involving the use of armed forces are to be employed to give effect to its decisions, and it may call upon the Members of the United Nations to apply such measures. These may include complete or partial interruption of economic relations and of rail, sea, air, postal, telegraphic, radio, and other means of communication, and the severance of diplomatic relations.
+
+### Article 42
+
+Should the Security Council consider that measures provided for in Article 41 would be inadequate or have proved to be inadequate, it may take such action by air, sea, or land forces as may be necessary to maintain or restore international peace and security. Such action may include demonstrations, blockade, and other operations by air, sea, or land forces of Members of the United Nations.
+
+### Article 43
+
 FIXME: the last article is 111
