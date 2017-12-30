@@ -305,4 +305,35 @@ Should the Security Council consider that measures provided for in Article 41 wo
 
 ### Article 43
 
+1. All Members of the United Nations, in order to contribute to the maintenance of international peace and security, undertake to make available to the Secirity Council, on its call and in accordance with a special agreement or agreements, armed forces, asistance, and facilities, including rights of passage, necessary for the purpose of maintaining international peace and security.
+
+2. Such agreement or agreements shall govern the numbers and types of forces, their degree of readiness and general locationm and the nature of the facilities and assistance to be provided.
+
+3. The agreement or agreements shall be negotiated as soon as possible on the initiative of the Security Council. They shall be concluded between the Security Council and Members or between the Security Council and groups of Members and shall be subject to ratification by the signatory states in accordance with their respective constitutional process.
+
+### Article 44
+
+When the Security Council has decided to use force it shall, before calling upon a Member not represented on it to provide armed forces in fulfillment of the obligations assumed under Article 43, invite that Member, if the Member so desires, to participate in the decisions of the Security Council concerning the employment of contingents of that Member's armed forces.
+
+### Article 45
+
+In order to enable the United Nations to take urgent military measures, Members shall hold immediately available national air-force contingents for combined international enforcement action. The strength and degree of readiness of these contingents and plans for their combined action shall be deterimined, within the limit laid down in the special agreement or agreements referrred to in the Article 43, by the Security Council with the assistance of the Military Staff Committee.
+
+### Article 46
+
+Plans for application of armed force shall be made by the Security Council with the assistance of the Military Staff Committee.
+
+### Article 47
+
+1. There shall be established a Military Staff Committee to advise and assist the Security Council on all questions relating to the Security Concil's military requirements for the maintenance of international peace and security, the employment and command of forces placed at its disposal, the regulation of armaments, and possible disarmament.
+
+2. The Military Staff Committee shall consist of the Chiefs of Staff of the permanent members of the Security Council or their representatives. Any Member of the United Nations not permanently representated on the Committee shall be invited by the Committee to be associated with it when the efficient discharge of the Committee's responsibilities requires the participation of that Member in its work.
+
+3. The Military Staff Committee shall be responsible under the Security Council for the strategic direction of any armed forces placed at the disposal of the Security Council. Questations relating to the command of such forces shall be worked out subsequently.
+
+4. The Military Staff Committee, with the authorization of the Security Council and after consultation with appropriate regional agencies, may establish regional sub-committees.
+
+### Article 48
+
+
 FIXME: the last article is 111
