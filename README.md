@@ -335,5 +335,34 @@ Plans for application of armed force shall be made by the Security Council with 
 
 ### Article 48
 
+1. The action required to cary out the decisions of the Security Council for the maintenance of international peace and secuirty shall be taken by all the Members of the United Nations or by some of them, as the Security Council may determine.
+
+2. Such decisions shall be carried out by the Members of the United Nations directly and through their action in the appropriate international agencies of which they are members.
+
+### Article 49
+
+The Members of the United Nations shall join in affording mutual assistance in carrying out the measures decided upon by the Security Council.
+
+### Article 50
+
+If preventive or enforcement measures against any state are taken by the Security Council, any other state, whether a Member of the United Nations or not, which finds itself confronted with special economic problems arising from the carrying out of those measures shall have the right to consult the Security Council with regard to a solution of those problems.
+
+### Article 51
+
+Nothing in the present Charter shall impair the inherent right of inidividual or collective self-defense if an armed attach occurs against a Member of the United Nations, until the Security Council has take measures necessary to maintain international peace and security. Measures taken by Members in the exercise of this right of self-defence shall be immediately reported to the Security Council and shall not in any way affect the authority and responsibility of the Security Council under the present Charter to take at any time such action as it deems necessary in order to maintain or restore international peace and security.
+
+## CHAPTER VIII: Regional arrangements
+
+### Article 52
+
+1. Nothing in the present Charter precludes the existence of regional arrangements or agencies for dealing with such matters relating to the maintenance of international peace and security as are appropriate for regional action, provided that such arrangements or agencies and their activities are consistent with the Purposes and Principles of the United Nations.
+
+2. The Members of the United Nations entering into such arrangements or constituting such agencies shall make every effort to achieve pacific settlement of local disputes throught such regional arrangements or by such regional agencies before referrring them to the Security Council.
+
+3. The Security Council shall encourage the development of pacific settlement of local disputes through such regional arrangements or by such regional agencies either on the initiative of the states concerned or by reference from the Security Council.
+
+4. This Article in no way impairs the application of Articles 34 and 35.
+
+### Article 53
 
 FIXME: the last article is 111
