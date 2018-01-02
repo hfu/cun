@@ -365,4 +365,26 @@ Nothing in the present Charter shall impair the inherent right of inidividual or
 
 ### Article 53
 
+1. The Security Council shall, where appropriate, utilize such regional arrangements or agencies for enforcement action under its authority. But no enforcement action shall be taken under regional arrangements or by regional agencies without the authorization of the Security Council, with the exception of measures against any enemy state, as defined in paragraph 2 of thsi Article, provided for pursuant to Article 107 or in regional arrangements derected against renewal of aggressive policy on the part of any such state, until such time as the Organization may, on request of the Governments concernedm be charged with the responsibility for preventing further aggression by such a state.
+
+2. The term enemy state as used in paragraph 1 of this Article applies to any state which during the Second World War has been an enemy of any signatory of the present Charter.
+
+### Article 54
+
+The Security Council shall at all times be kept fully informed of activities undertaken or in contemplation under regional arrangements or by regional agencies for the maintenance of international peace and security.
+
+## CHAPTER IX: International Economic and Social Co-operation
+
+### Article 55
+
+With a view to the creation of conditions of stability and well-being which are necessary for peaceful and friendly relations among nations based on respect for the principle of equal rights and self determinataion of peoples, the United Nations shall promote:
+
+a. higher standards of living, full employment, and conditions of economic and social progress and development.
+
+b. solutions of international economic, social, health, and related problems; and international cultural and educational co-operation; and
+
+c. universal respect for, and observance of, human rights and fundamental freedoms for all without distinction as to race, sex, language, or religion.
+
+### Article 56
+
 FIXME: the last article is 111
