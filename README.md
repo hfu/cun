@@ -181,7 +181,7 @@ The General Assembly shall adopt its own rules of procedure. It shall elect it s
 
 The General Assembly may establish such subsidiary organs as it deems necessary for the performance of its functions.
 
-## CHAPTER V: The Security Council
+## Chapter V: The Security Council
 
 ## Composition
 
@@ -247,7 +247,7 @@ Any Member of the United Nations which is not a member of the Security Council m
 
 Any Member of the United Nations which is not a member of the Security Council or any state which is not a Member of the United Nations, if it is a party to a dispute under consideration by the Security Council, shall be invited to participate, without vote, in the discussion relating to the dispute. The Security Council shall lay down such conditions as it deems just for the participation of a state which is not a Member of the United Nations.
 
-## CHAPTER VII: Pacific Settlement of disputes
+## Chapter VII: Pacific Settlement of disputes
 
 ### Article 33
 
@@ -285,7 +285,7 @@ The Security Council may investigate any dispute, or any situation which might l
 
 Without prejudice to the provisions of Article 33 to 37, the Security Council maym inf all the parties to any dispute so request, make recommendations to the parties with a view to a pacific settlement of the dispute.
 
-## CHAPTER VII: Action with Respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression
+##  VII: Action with Respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression
 
 ### Article 39
 
@@ -351,7 +351,7 @@ If preventive or enforcement measures against any state are taken by the Securit
 
 Nothing in the present Charter shall impair the inherent right of inidividual or collective self-defense if an armed attach occurs against a Member of the United Nations, until the Security Council has take measures necessary to maintain international peace and security. Measures taken by Members in the exercise of this right of self-defence shall be immediately reported to the Security Council and shall not in any way affect the authority and responsibility of the Security Council under the present Charter to take at any time such action as it deems necessary in order to maintain or restore international peace and security.
 
-## CHAPTER VIII: Regional arrangements
+## Chapter VIII: Regional arrangements
 
 ### Article 52
 
@@ -373,7 +373,7 @@ Nothing in the present Charter shall impair the inherent right of inidividual or
 
 The Security Council shall at all times be kept fully informed of activities undertaken or in contemplation under regional arrangements or by regional agencies for the maintenance of international peace and security.
 
-## CHAPTER IX: International Economic and Social Co-operation
+## Chapter IX: International Economic and Social Co-operation
 
 ### Article 55
 
@@ -386,5 +386,53 @@ b. solutions of international economic, social, health, and related problems; an
 c. universal respect for, and observance of, human rights and fundamental freedoms for all without distinction as to race, sex, language, or religion.
 
 ### Article 56
+
+All Members pledge themselves to take joint and separate action in co-operation with the Organization for the achievement of the purposes set forth in Article 55.
+
+### Article 57
+
+1. The various specialized agencies, established by integovernmental agreement and having wide international responsibilities, as defined in their basic instruments, in economic, social, cultural, educational, health, and related fields, shall be brought into relationship with the United Nations in accordance with the provisions of Article 63.
+
+2. Such agencies thus brought into relationship with the United Nations are hereinafter referred to as specialized agencies.
+
+### Article 58
+
+The Organization shall make recommendations for the co-ordination of the policies and activities of the specialized agencies.
+
+### Article 59
+
+The Organization shall, where appropriate, initiate negotiations among the states concerned for the creation of any new specialized agencies required for the accomplishment of the purposes set forth in Article 55.
+
+### Article 60
+
+Responsibility for the discharge of the functions of the Organization set forth in this Charter shall be veste in the General Assembly and, under the authority of the General Assembly, in the Economic and Social Council, which shall have for this purpose the powers set forth in Chapter X.
+
+## Chapter X: The Economic and Social Couoncil
+
+## Composition
+
+### Article 61
+
+1. The Economic and Social Council shall consist of fifty-four Members of the United Nations elected by the General Assembly.
+
+2. Subject to the provisions of paragraph 3, eighteen members of the Economic and Social Council shall be elected each year for a term of three years. A retiring member shall be eligible for immediate re-election.
+
+3. At the first election after the increase in the membership of the Economic and Social Council from twenty-seven to fifty-four members, in addition to the members elected in place of the nine members whose term of office expires at the end of that year, twenty-seven additional members shall be elected. Of these twenty-seven additional members, the term of office of nine members so elected shall expire at ther end of one year, and of nine other members at the end of two years, in accordance with arrangements made by the General Assembly.
+
+4. Each member of the Economic and Social Council shall have one representative.
+
+## Functions and powers
+
+### Article 62
+
+1. The Economic and Social Council may make or initiate studies and reports with respect to international economic, social, cultural, educational, health, and related matters and may make recommendations with respect to any such matters to the General Assembly, to the Members of the United Nations, and to the specialized agencies concerned.
+
+2. It may make recommendations for the purpose of promoting respect for, and obeservance of, human rights and fundamental freedoms for all.
+
+3. I tmay prepare draft conventions for submission to the General Assembly, with respect to matters falling within its competence.
+
+4. It may call, in accordnace witht eh rules prescribed by the Unted Nations, international conferences on matters falling within its competence.
+
+### Article 63
 
 FIXME: the last article is 111
