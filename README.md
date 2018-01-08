@@ -435,4 +435,82 @@ Responsibility for the discharge of the functions of the Organization set forth 
 
 ### Article 63
 
+1. The Economic and Social Council may enter into agreements with any of the agencies referred to in Article 57, defining the terms on which the agency concerned shall be brought into relationship with the United Nations. Such agreement shall be subject to approval by the General Assembly.
+
+2. It may co-ordinate the activities of the specialized agencies through consultation with and recommendations to such agencies and through recommendations to the General Assembly and to the Members of the United Nations.
+
+### Article 64
+
+1. The Economic and Social Council may take appropriate steps to obtaion regular reports from the specialized agencies. It may take arrangements with the Members of the United Nations and with the specialized agencies to obtaion reportes on the steps taken to give effect to its own recommendations and to recommendations on matters falling within its competence made by the General Assembly.
+
+2. It may communicate its observations on these reports to the General Assembly.
+
+### Article 65
+
+The Economic and Social Council may furnish information to the Security Council and shall assist the Security Council upon its request.
+
+### Article 66
+
+1. The Economic and Social Council shall perform such functions as fall within its competence in connexion with the carrying out of the recommendations of the General Assembly.
+
+2. It may, with the approval of the General Assembly, perform services at the request of Members of the United Nations and at the request of specialized agencies.
+
+3. It shall perform such other functions as are specified elsewhere in the present Charter or as may be assigned to it by the General Assembly.
+
+## Voting
+
+### Article 67
+
+1. Each member of the Economic and Social Council shall have one vote.
+
+2. Decisions of the Economic and Social Coouncil shall be made by a majority of the members present and voting.
+
+## procedure
+
+### Article 68
+
+The Economic and Social Council shall set up commissions in economic and social fields and for the promotion of human rights, and such other commissions as may be required for the performance of its functions.
+
+### Article 69
+
+The Economnic and Social Council shall invite any Member of the United Nations to participate, without vote, in its deliberations on any matter of particular concern to that Member.
+
+### Article 70
+
+The Economic and Social Council may take arrangements for representatives of the specialized agencies to participate, without vote, in its delibarations and in those of the commissions establised by it, and for its representatives to participate in the deliberations of the specialized agencies.
+
+### Article 71
+
+The Economic and Social Council may make suitable arrangements for consultation with non-governmental organizations which are concerned with matters within its competence. Such arrengements may be makde with international organizations and, where appropriate, with national organizations after consulation with the Member of the United Nations concerned.
+
+### Article 72
+
+1. The Economic and Social Council shall adopt its own rules of procedure, including the methods of selecting its President.
+
+2. The Economic and Social Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members.
+
+## Chapter XI: Delcaration regarding Non-Self-Governing Territories
+
+### Article 73
+
+Members of the United Nations which have or assume responsibilities for the administration of territories whose peoples have not yet attained a full measure of self-government recognize the principle that the interestes of the inhabitants of these territories are paramount, and accept as a sacred truet the obligation to promote to the utmost, within the system of international peace and security established by the present Charter, the well-being of the inhabitants of these territories, and, to this end:
+
+a. to ensure, with due respect for the culture of the peoples concerned, their political, economic, social, and educational advancement, their just treatment, and their protection against abuses;
+
+b. to develop self-government, to take due account of the political aspirations of the peoples, and to assist them in the progressive development of their free political institutions, according to the particular circumstances of each territory and its peoples and their varyiung stages of advancement;
+
+c. to further international peace and security;
+
+d. to promote constructive measures of development, to encourage research, and to co-perate with one another and, when and where appropriate, with specialized international bodies with a view to the practical achievement of the social, economic, and scientific purposes set forth in this Article; and
+
+e.  to transmit regularly to the Secretary-General for information purposes, subject to such limitation as security and constitutional considerations may require, statistical and other information of a technical nature relating to economic, social, and educational conditions in the territories for which they are respectively responsible other than those territories to which Chapters XII and XIII apply.
+
+### Article 74
+
+Members of the United Nations also agree that their policy in respect of the territories to which this Chapter applies, no less than in respect of their metropolitan areas, must be based on the general principles of good-neighbourliness, due accout being taken of the interests and well-being of the rest of the world, in social, economic and commercial matters.
+
+## Chapter XII: International Trusteeship system
+
+### Article 75
+
 FIXME: the last article is 111
