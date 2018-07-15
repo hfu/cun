@@ -563,6 +563,197 @@ There may be designated, in any trusteeship agreement, a strategic area or areas
 
 ### Article 83
 
+1. All functions of the United Nations relating to strategic areas, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the Security Council.
+
+2. The basic objectives set forth in Article 76 shall be applicable to the people of each strategic area.
+
+3. The Security Council shall, subject to the provisions of the trusteeship agreements and without prejudice to security considerations, avail itself of the assistance of the Trusteeship Council to perform those functions of the United Nations under the trusteeship system relating to political, economic, social, and educational matters in the strategic areas.
+
+### Article 84
+
+It shall be the duty of the administering authority to ensure that the trust territory shall play its part in the maintenance of international peace and security. To this end the administering authority may make use of volunteer forces, facilities, and assistance from the trust territory in carrying out the obligations towards the Security Council undertaken in this regard by the administering authority, as well as for local defence and the maintenance of law and order within the trust territory.
+
+### Article 85
+
+1. The functions of the United Nations with regard to trusteeship agreements for all areas not designated as strategic, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the General Assembly.
+
+2. The Trusteeship Council, operating under the authority of the General Assembly, shall assist the General Assembly in carrying out these functions.
+
+## Chapter XIII: The Trusteeship Council
+
+## Composition
+
+### Article 86
+
+1. The Trusteeship Council shall consist of the following Members of the United Nations:
+
+  a. those Members administering trust territories;
+
+  b. such of those Members mentioned by name in Article 23 as are not administering trust territories; and
+
+  c. as many other Members elected for three-year terms by the General Assembly as may be necessary to ensure that the total number of members of the Trusteeship Council is equally divided between those Members of the United Nations which administer trust territories and those which do not.
+
+2. Each member of the Trusteeship Council shall designate one specially qualified person to represent it therein.
+
+## Functions and Powers
+
+### Article 87
+
+The General Assembly and, under its authority, the Trusteeship Council, in carrying out their functions, may:
+
+  a. consider reports submitted by the administering authority;
+
+  b. accept petitions and examine them in consultation with the administering authority;
+
+  c. provide for periodic visits to the respective trust territories at times agreed upon with the administering authority; and
+
+  d. take these and other actions in conformity with the terms of the trusteeship agreements.
+
+### Article 88
+
+The Trusteeship Council shall formulate a questionnaire on the political, economic, social, and educational advancement of the inhabitants of each trust territory, and the administering authority for each trust territory within the competence of the General Assembly shall make an annual report to the General Assembly upon the basis of such questionnaire.
+
+## Voting
+
+### Article 89
+
+1. Eacho member of the Trusteeship Council shall have one vote.
+
+2. Decisions of the Trusteeship Council shall be made by a majority of the members present and voting.
+
+## Procedure
+
+### Article 90
+
+1. The Trusteeship Council shall adopt its own rules of procedure, including the method of selecting its President.
+
+2. The Trusteeship Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members.
+
+### Article 91
+
+The Trusteeship Council shall, when appropriate, avail itself of the assistance of the Economic and Social Council and of the specialized agencies in regard to matters with which they are respectively concerned.
+
+## Chapter XIV: The International Court of Justice
+
+### Article 92
+
+The International Court of Justice shall be the principal judicial organ of the United Nations. It shall function in accordance with the annexed Statute, which is based upon the Statute of the Permanent Court of International Justice and forms an integral part of the present Charter.
+
+### Article 93
+
+1. All Members of the United Nations are ipso facto parties to the Statute of the International Court of Justice.
+
+2. A state which is not a Member of the United Nations may become a party to the Statute of the Internatila Court of Justice on conditions to be determined in each case by the General Assembly upon the recommendation of the Security Council.
+
+### Article 94
+
+1. Each Member of the United Nations undertakes to comply with the decision of the International Court of Justice in any case to which it is a party.
+
+2. If any party to a case fails to perform the obligations incumbent upon it under a judgment rendered by the Court, the other party may have recourse to the Security Council, which may, if it deems necessary, make recommendations or decide upon measures to be taken to give effect to the judgment.
+
+### Article 95
+
+Nothing in the present Chapter shall prevent Members of the United Nations from entrusting the solution of their differences to other tribunals by virtue of agreements already in existence or which may be concluded in the future.
+
+### Article 96
+
+1. The General Assembly or the Security Council may request the International Court of Justice to give an advisory opinion on any legal question.
+
+2. Other organs of the United Nations and specialized agencies, which may at any time be so authorized by the General Assembly, may also request advisory opinions of the Court on legal questions arising within the scope of their activities.
+
+## Chapter XV: The Secretariat
+
+### Article 97
+
+The Secretariat shall comprise a Secretary-General and such staff as the Organization may require. The Secretary-General shall be appointed by the General Assembly upon the recommendation of the Security Council. He shall be the chief administrative officer of the Organization.
+
+### Article 98
+
+The Secretary-General shall act in that capacity in all meetings of the General Assembly, of the Security Council, of the Economic and Social Council, and of the Trusteeship Council, and shall perform such other functions as are entrusted to him by these organs. The Secretary-General shall make an annual report to the General Assembly on the work of the Organization.
+
+### Article 99
+
+The Secretary-General may bring to the attention of the Security-Council any matter which in his opinion may threaten the maintenance of international peace and security.
+
+### Article 100
+
+1. In the performance of their duties the Secretary-General and the staff shall not seek or receive instructions from any government or from any other authority external to the Organization. They shall refrain from any action which might reflect on their position as international officials responsible only to the Organization.
+
+2. Each Member of the United Nations undertakes to respect the exclusively international character of the responsibilities of the Secretary-General and the staff and not to seek to influence them in the discharge of their responsibilities.
+
+### Article 101
+
+1. The staff shall be appointed by the Secretary-General under regulations established by the General Assembly.
+
+2. Appropriate staffs shall be permanently assigned to the Economic and Social Council, the Trusteeship Council, and, as required, to other organs of the United Nations. These staffs shall form a part of the Secretariat.
+
+3. The paramount consideration in the employment of the staff and in the determination of the conditions of service shall be the necessity of securing the highest standards of efficiency, competence, and integrity. Due regard shall be paid to the importance of recruiting the staff on as wide a geographical basis as possible.
+
+## Chapter XVI: Mescellaneous Provisions
+
+### Article 102
+
+1. Every treaty and every international agreement entered into by any Member of the United Nations after the present Charter comes into force shall as soon as possible be registered with the Secretariat and published by it.
+
+2. No party to any such treaty or international agreement which has not been registered in accordance with the provisions of paragraph 1 of this Article may invoke that treaty or agreement before any organ of the United Nations.
+
+### Article 103
+
+In the event of a conflict between the obligations of the Members of the United Nations under the present Charter and their obligations under any other international agreement, their obligations under the present Charter shall prevail.
+
+### Article 104
+
+The Organization shall enjoy in the territory of each of its Members such legal capacity as may be necessary for the exercise of its functions and the fulfilment of its purposes.
+
+### Article 105
+
+1. The Organization shall enjoy in the territory of each of its Members such privileges and immunities as are necessary for the fulfilment of its purposes.
+
+2. Representatives of the Members of the United Nations and officials of the Organization shall similarly enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connexion with the Organization.
+
+3. The General Assembly may make recommendations with a view to determining the details of the application of paragraphs 1 and 2 of this Article or may propose conventions to the Members of the United Nations for this purpose.
+
+## Chapter XVII: Transitional Security Arrangements
+
+### Article 106
+
+Pending the coming into force of such special agreements referred to in Article 43 as in the opinion of the Security Council enable it to begin the exercise of its responsibilities under Article 42, the parties to the Four-Nation Declaration, signed at Moscow, 30 October 1943, and France, shall, in accordance with the provisions of paragraph 5 of that Declaration, consult with one another and as occasion required with other Members of the United Nations with a view to such joint action on behalf of the Organization as may be necessary for the purpose of maintaining international peace and security.
+
+### Article 107
+
+Nothing in the present Charter shall invalidate or preclude action, in relation to any state which during the Second World War has been an enemy of any signatory to the present Charter, taken or authorized as a result of that war by the Governments having responsibility for such action.
+
+## Chapter XVIII: Amendments
+
+### Article 108
+
+Amendments to the present Charter shall come into force for all Members of the United Nations when they have been adopted by a vote of two thirds of the members of the General Assembly and ratified in accordance with their respective constitutional process by two thirds of the Members of the United Nations, including all the permanent members of the Security Council.
+
+### Article 109
+
+1. A General Conference of the Members of the United Nations for the purpose of reviewing the present Charter may be held at a date and place to be fixed by a two-thirds vote of the members of the General Assembly and by a vote of any nine members of the Security Council. Each Member of the United Nations shall have one vote in the conference.
+
+2. Any alteration of the present Charter recommended by a two-thirds vote of the conference shall take effect when ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations including all the permanent members of the Security Council.
+
+3. If such a conference has not been held before the tenth annual session of the General Assembly following the coming into force of the present Charter, the proposal to call such a conference shall be placed on the agenda of that session of the General Assembly, and the conference shall be held if so decided by a majority vote of the members of the General Assembly and by a vote of any seven members of the Security Council.
+
+## Chapter XIX: Ratification and Signature
+
+### Article 110
+
+1. The present Charter shall be ratified by the signatory states in accordance with their respective constitutional processes.
+
+2. The ratifications shall be deposited with the Government of the United States of America, which shall notify all the signatory states of each deposit as well as the Secretary-General of the Organization when he has been appointed.
+
+3. The present Charter shall come into force upon the deposit of ratifications by the Republic of China, France, the Union of Soviet Social Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and by a majority of the other signatory states. A protocol of the ratifications deposited shall thereupon be drawn up by the Government of the United States of America which shall communicate copies thereof to all the signatory states.
+
+4. The states signatory to the present Charter which ratify it after it has come into force will become original Members of the United Nations on the date of the deposit of their respective ratifications.
+
+### Article 111
+
+The present Charter, of which the Chinese, French, Russian, English, and Spanish texts are equally authentic, shall remain deposited in the archives of the Government of the United States of America. Duly certified copies thereof shall be transmitted by that Government to the Governments of the other signatory states.
 
 
-FIXME: the last article is 111
+In faith whereof the representatives of the Governments of the United Nations have signed the present Charter.
+
+Done at the city of San Francisco the twenty-sixth day of June, one thousand nine hundred and forty-five.
